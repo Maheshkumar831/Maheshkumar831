@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kumar R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Node.Js**
 
 - 💬 Ask me about **Full stack Development**
 
