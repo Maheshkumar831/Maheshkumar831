@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh Kumar R</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Full stack Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **maheshkumarrk8@gmail.com**
 
